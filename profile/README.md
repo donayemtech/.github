@@ -54,6 +54,12 @@ Plateforme **panafricaine** de mise en relation entre élèves et professeurs ([
 Site de services de plomberie avec espace d'administration : [donayemplomberie.com](https://donayemplomberie.com/). Mise à l'identité de marque, déploiement et mise en ligne.
 **Technologies :** Laravel, React.
 
+### CFP MIS — Maquette de site de centre de formation
+<img src="https://raw.githubusercontent.com/donayemtech/.github/main/profile/images/cfp-mis.png" alt="CFP MIS" width="720">
+
+Maquette d'un **site vitrine** pour un centre de formation professionnelle (aide médico-sociale, animation sociale, petite enfance, assistant de vie) : présentation des formations, pédagogie, chiffres clés, témoignages et formulaire de contact vers WhatsApp. Design **responsive** avec mode sombre.
+**Technologies :** HTML, CSS, JavaScript.
+
 ## Technologies
 
 `Next.js` · `React` · `Laravel` · `MySQL` · `Tailwind CSS` · `Flutter` · `Shopify` · `WordPress` · `Mobile Money (MTN MoMo, Orange Money)`
